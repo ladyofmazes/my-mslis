@@ -21,7 +21,7 @@ var entry1Content string
 func (h *intro) Render() app.UI {
 	return newPage().
 		Title("Introduction").
-		Icon(schoolSVG).
+		Icon(homeSVG).
 		Index(
 			newIndexLink().Title("My MSLIS").Href("/"),
 			app.Div().Class("separator"),
@@ -41,7 +41,7 @@ func main() {
 	// component to display for a given path, on both client and server-side.
 	app.Route("/", func() app.Composer { return &intro{} })
 	app.Route("/philosophy", func() app.Composer { return &philosophy{} })
-
+	app.Route("/plo1", func() app.Composer { return &plo1{} })
 	// Once the routes set up, the next thing to do is to either launch the app
 	// or the server that serves the app.
 	//

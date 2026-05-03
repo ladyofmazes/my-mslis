@@ -24,7 +24,7 @@ func (h *philosophy) Render() app.UI {
 		Title("Philosophy").
 		Icon(coffeeSVG).
 		Index(
-			newIndexLink().Title("Intro").Href("/philosophy"),
+			newIndexLink().Title("Philosophy").Href("/philosophy"),
 			app.Div().Class("separator"),
 		).
 		Content(
