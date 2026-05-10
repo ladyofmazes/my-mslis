@@ -738,60 +738,41 @@ strong {
 }
 
 @media (max-width: 768px) {
-
-/* Hamburger button - ALWAYS VISIBLE */
-  .hamburger-button {
-    display: block !important;
-    cursor: pointer;
-    padding: 12px;
-    color: black;
-    background: rgb(146, 173, 146);
-    /* Make it obvious */
+  .nav-vertical-wrapper {
+    display: flex !important;
+    flex-direction: column;    /* Stacks them vertically */
+    align-items: center;       /* Centers them horizontally relative to each other */
+    justify-content: center;   /* Centers them vertically if the container has height */
+    
+    /* Position the whole group on the screen */
     position: fixed;
     top: 10px;
-    left: 10px;
-    z-index: 9999;
-    pointer-events: auto !important;
-    /* Ensure it receives clicks */
-    touch-action: manipulation;
-    /* Better touch handling */
+    left: 20px;                /* Adjust this to move the whole unit left/right */
+    z-index: 10000;
+    cursor: pointer;
   }
 
-  /* Hide desktop menu by default on mobile */
-  .menu {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 80%;
-    max-width: 300px;
-    height: 100vh;
-    z-index: 999;
-    overflow-y: auto;
-    background: linear-gradient(#2e343a, rgba(0, 0, 0, 0.9));
-    transform: translateX(-100%);
-    transition: transform 0.3s ease;
+  .hamburger-button {
+    background: rgb(146, 173, 146);
+    padding: 10px;
+    display: flex;
+    border-radius: 4px;
+    /* This creates the space between the button and the H1 below it */
+    margin-bottom: 8px; 
   }
 
-  /* Show menu when shell has menu-open class */
-  [data-goapp-ui="shell"].menu-open .menu {
-    display: block;
-    transform: translateX(0);
+  .menu-title {
+    /* Reset H1 defaults so they don't break your layout */
+    margin: 0; 
+    padding: 0;
+    font-size: 24px;           /* Large text as requested */
+    color: black;
+    text-align: center;
+    line-height: 1.2;
   }
-
-  /* Backdrop */
-  [data-goapp-ui="shell"].menu-open::after {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: 998;
-  }
-
 }
+
+
 
 /*------------------------------------------------------------------------------
 ** Animations

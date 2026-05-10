@@ -249,12 +249,40 @@ func (p *page) Render() app.UI {
 								Middle().
 								Content(
 									app.Raw(`
-                                        <div class="hamburger-button" onclick="window.toggleMenu()">
-                                            <svg viewBox="0 0 24 24" width="24" height="24">
-                                                <path fill="currentColor" d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
-                                            </svg>
-                                        </div>
-                                    `),
+                                            <div onclick="window.toggleMenu()" style="
+                                                position: fixed; 
+                                                top: 20px; 
+                                                left: 20px; 
+                                                z-index: 99999; 
+                                                display: flex; 
+                                                flex-direction: column; 
+                                                align-items: center;
+                                                cursor: pointer;">
+                                                
+                                                <!-- The Icon Box -->
+                                                <div style="
+                                                    background: rgb(146, 173, 146); 
+                                                    padding: 12px; 
+                                                    border-radius: 8px; 
+                                                    display: flex; 
+                                                    margin-bottom: 8px;">
+                                                    <svg viewBox="0 0 24 24" width="24" height="24" style="display: block; color: black;">
+                                                        <path fill="currentColor" d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
+                                                    </svg>
+                                                </div>
+                                        
+                                                <!-- The Text -->
+                                                <h1 style="
+                                                    margin: 0; 
+                                                    padding: 0; 
+                                                    font-size: 24px; 
+                                                    color: white; 
+                                                    text-align: center; 
+                                                    line-height: 1;">
+                                                    Menu
+                                                </h1>
+                                            </div>
+                                        `),
 								),
 						),
 				).
