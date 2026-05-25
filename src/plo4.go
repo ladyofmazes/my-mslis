@@ -9,25 +9,25 @@ import (
 // intro is a component that displays a simple "intro World!". A component is a
 // customizable, independent, and reusable UI element. It is created by
 // embedding app.Compo into a struct.
-type plo3 struct {
+type plo4 struct {
 	app.Compo
 }
 
 // The Render method is where the component appearance is defined. Here, a
 // markdown file is displayed as content.
 //
-//go:embed documents/plo3.md
-var entry5Content string
+//go:embed documents/plo4.md
+var entry6Content string
 
-func (h *plo3) Render() app.UI {
+func (h *plo4) Render() app.UI {
 	return newPage().
-		Title("Design and innovate to create equitable, just, and engaging information artifacts, including services, systems, spaces, resources, and technologies").
+		Title("Lead and manage people and projects in an equitable, just, and culturally competent manner").
 		Icon(schoolSVG).
 		Index(
-			newIndexLink().Title("Design and innovate to create equitable, just, and engaging information artifacts, including services, systems, spaces, resources, and technologies").Href("/plo3"),
+			newIndexLink().Title("Lead and manage people and projects in an equitable, just, and culturally competent manner").Href("/plo4"),
 			app.Div().Class("separator"),
 		).
 		Content(
-			newMarkdownDoc().MD(entry5Content),
+			newMarkdownDoc().MD(entry6Content),
 		)
 }
