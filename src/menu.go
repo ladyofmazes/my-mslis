@@ -104,6 +104,12 @@ func (m *menu) Render() app.UI {
 					Label("PLO4").
 					Href("/plo4").
 					Class(isFocus("/plo4")),
+				ui.Link().
+					Class(linkClass).
+					Icon(imgFolderSVG).
+					Label("PLO5").
+					Href("/plo5").
+					Class(isFocus("/plo5")),
 				app.Div().Class("separator"),
 				ui.Link().
 					Class(linkClass).

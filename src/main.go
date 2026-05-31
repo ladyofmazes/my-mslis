@@ -45,6 +45,7 @@ func main() {
 	app.Route("/plo2", func() app.Composer { return &plo2{} })
 	app.Route("/plo3", func() app.Composer { return &plo3{} })
 	app.Route("/plo4", func() app.Composer { return &plo4{} })
+	app.Route("/plo5", func() app.Composer { return &plo5{} })
 	// Once the routes set up, the next thing to do is to either launch the app
 	// or the server that serves the app.
 	//
