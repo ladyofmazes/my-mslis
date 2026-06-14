@@ -16,16 +16,28 @@ I will continue to learn more about technology including things like AI that are
 
 [Job\_Preparation\_Package\_Part\_AB](https://docs.google.com/document/d/1W8V9-sD036OBh7BZTLwGEEngNHvPn48sFAAAmJIj89M/edit?usp=drive_link) — SCRLC Create: Omeka Platform for Multi-Library Immigration Collections Designing and deploying a shared digital exhibit platform across public, academic, and council libraries for the South Central Regional Library Council
 
+Impact: Used knowledge of free online platform Omeka to share resources between public, community college and academic libraries
+
 [Final\_Team\_Assessment](https://docs.google.com/document/d/1KfsVWmHV85dWmlJxNMlAcNQd2HSuG_7hNAR6CVwdZtQ/edit?usp=drive_link) — Entity Relationship Diagram for a Multi-User Library System Leading system design through requirements analysis, data flow diagrams, and iterative ERD development in a collaborative team context
+
+Impact: Showed that it is possible in a short time to design an application to manage library resources without having to purchase external software or manage WordPress plugins
 
 ## 3.2 Design artifacts that give users voice in decision-making regarding critical programs, services, and resources for diverse communities
 
 [Final Presentation to Partner Library](https://docs.google.com/presentation/d/1ef4mI7CV0Zry3czLK28Jug7IysdZQz5zZJ8b_AeFfxY/edit?usp=drive_link) — Digital Engagement Proposal for Immigrant Communities at Wayland Free Library Designing a multilingual website and anonymous online book club to give immigrant patrons safe, accessible pathways to community resources and self-advocacy
 
+Impact: Grant proposal to add online spaces that can support the immigrant community
+
 [Choose\_Your\_Adventure\_Conference\_Presentation](https://docs.google.com/presentation/d/1GOvJu0Cx2Pib4ouwRHunfbdJYBE0jN2gVSuGtmbAzpI/edit?usp=drive_link) — SCRLC Create Immigration Exhibit at New Librarians' Symposium XI Building a collaborative digital exhibit from holdings across multiple library systems to surface immigration narratives for diverse regional communities
+
+Impact: Allowing local communities to build displays using materials from many separate libraries
 
 ## 3.3 Critique existing designs to expose instances of inequity and injustice and move toward mitigation and repair
 
 [Final Presentation to Partner Library](https://docs.google.com/presentation/d/1ef4mI7CV0Zry3czLK28Jug7IysdZQz5zZJ8b_AeFfxY/edit?usp=drive_link)  — W3C Accessibility Audit and Multilingual Access Gap Analysis Identifying failures in disability and cultural accessibility on the Wayland Free Library website and proposing concrete remediation steps aligned with W3C standards
 
+Impact: Move the Wayland Free Library towards the required disability accessibility and add additional language accessibilitty for the web site
+
 [Access Effectiveness](https://docs.google.com/document/d/1V_cWlm-mFMXgXMg6Ajvnd5IX4R5BfWv60LnEjWyRvPY/edit?usp=drive_link)  — Authority Control and the Limits of Library Search for Marginalized Subjects Examining how controlled vocabulary and advanced search both improve precision and can suppress results for community organizations like Greenpeace that lack library representation
+
+Impact: Analyzed how existing library cataloguing has biases which can favor groups with more money and disfavor non-profits like Greenpeace
