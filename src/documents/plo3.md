@@ -18,7 +18,7 @@ I will continue to learn more about technology including things like AI that are
 
 Impact: Used knowledge of free online platform Omeka to share resources between public, community college and academic libraries
 
-[Final\_Team\_Assessment](https://docs.google.com/document/d/1KfsVWmHV85dWmlJxNMlAcNQd2HSuG_7hNAR6CVwdZtQ/edit?usp=drive_link) — Entity Relationship Diagram for a Multi-User Library System Leading system design through requirements analysis, data flow diagrams, and iterative ERD development in a collaborative team context
+[Group 5 Paper](https://docs.google.com/document/d/1A8RScRuTVbGuNUleUKaVLwrNC77x1h0O1IkKaa9U7kI/edit?usp=drive_link) — Entity Relationship Diagram for a Multi-User Library System Leading system design through requirements analysis, data flow diagrams, and iterative ERD development in a collaborative team context
 
 Impact: Showed that it is possible in a short time to design an application to manage library resources without having to purchase external software or manage WordPress plugins
 
