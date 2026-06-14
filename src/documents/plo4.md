@@ -18,49 +18,82 @@ In the future I will continue to lead in the Steuben County library system by im
 
 [Job\_Preparation\_Package\_Part\_AB](https://docs.google.com/document/d/1W8V9-sD036OBh7BZTLwGEEngNHvPn48sFAAAmJIj89M/edit?usp=drive_link) — Building and Coordinating the SCRLC Create Digital Collections Network Leading digitization workflows, metadata standards, and cross-institutional collaboration across the South Central Regional Library Council's 14-county system, including creating a presentation of the platform for the New Librarians' Symposium XI
 
+Impact: Led project to use Omeka to connect public and academic libraries and managed the project including the implementation and choice of curated materials
+
 [Final\_Team\_Assessment](https://docs.google.com/document/d/1KfsVWmHV85dWmlJxNMlAcNQd2HSuG_7hNAR6CVwdZtQ/edit?usp=drive_link) — Distributed Project Leadership Under Difficult Team Circumstances Taking initiative on requirements, data flow diagrams, and the final report outline when a team member was displaced by the LA fires, while coordinating contributions across four people to deliver a complete systems design project
+
+Impact: Successfully navigated challenging circumstances to produce a highly technical proposal as part of a group project to create a version of TikTok using the ATProto standard
 
 ## 4.2 Use positional power to advocate for information equity and justice
 
 [Philosophy\_and\_Goals\_of\_Librarianship](https://docs.google.com/document/d/179e3O7qZzC9OhvEqNaImOvSMtvM_8sYPqRSFGRdaP7A/edit?usp=drive_link) — Democratizing Access Through Digital Infrastructure Drawing on a career trajectory from physics research to data engineering to librarianship, arguing that the librarian's role is to defend Enlightenment values of intellectual freedom and democratic access in the transition from analog to digital information systems
 
+Impact: Building a career both in industry and as a library professional with emphasis on data equity and information access
+
+
 [Final Report to Partner Library](https://docs.google.com/document/d/1k75Sp74sXJP-t-DH-XQ6Nq4F7qCmbhvpkjZSJ7fKBnY/edit?usp=drive_link) — Grant Strategy for Immigrant Community Digital Access at Wayland Free Library Using a staff position to develop a funded proposal for multilingual web resources and an anonymous online book club, directly addressing a gap in safe, accessible services for the local immigrant community
 
+Impact: Using collaboration with the Wayland Free Library to write grant proposal for funding for underserved immigrant communities
+
 [Academic\_Libraries\_Reading](https://docs.google.com/document/d/1BoRl7cgE-DMYd9cfQQd6wDHkJyNwcUnzh0iAgVlngjU/edit?usp=drive_link) — Institutional Power and the Budget Politics of Academic Libraries Analyzing how purchasing decisions around monographs and journal subscriptions concentrate power in ways that undermine equitable access, and arguing for open access models that reduce dependence on monopolistic publishers
+
+Impact: Using platform within academic librarianship class to argue for open source journals over the current standard of paying for big journals like Elsevier
 
 
 ## 4.3 Apply principles of equity and justice to ensure ethical decision-making
 
 [Job\_Preparation\_Package\_PartC](https://drive.google.com/file/d/15LLy3m_wbEB7IrG9Qb404BRwAjL8L_7u/view?usp=drive_link) — Mentoring Underrepresented Students in Physics Research Mentoring graduate and undergraduate students from disadvantaged backgrounds at UW-Madison and the University of Rochester, including coordinating the IceCube Software BootCamp and advocating for early career scientists through the IceCube collaboration board
 
+Impact: Ensuring that women and people of color had opportunities both for technical and professional development as a postdoctoral researcher in physics at a prestigious university
+
 [Libraries\_As\_Dysfunctional\_Organizations\_And\_Workplaces](https://docs.google.com/presentation/d/1b9gs80TsoZX3ZYxXnxuSLiyLM21HdzZ6yDEEykfshnU/edit?usp=drive_link) — Diagnosing Structural Bias and Precarity in Library Workplaces Examining how over 50% of library workers report dysfunction rooted in bullying, burnout, and selective incivility toward minorities, and mapping concrete interventions including diverse hiring committees, whole-person approaches, and elimination of unpaid practicums that exclude economically disadvantaged candidates
+
+Impact: As part of library leadership discussions at Syracuse University discussed the current problems for women and people of color within the library profession
 
 
 ## 4.4 Solve problems using empathy, evidence, and critical and creative thinking
 
 [Final Report to Partner Library](https://docs.google.com/document/d/1k75Sp74sXJP-t-DH-XQ6Nq4F7qCmbhvpkjZSJ7fKBnY/edit?usp=drive_link) — SWOT Analysis and Scalability Planning for a Rural Library Digital Initiative Identifying risks including political pushback, hardware costs, and staff burnout alongside opportunities for immigrant community engagement, and designing a tiered scalability plan that ensures a minimum viable outcome even if grant funding falls short
 
+Impact: Used critical thinking to list potential problems with the grant proposal to build an online book club including issues for the users and with access to resources
+
 [Final\_Project\_Part\_V\_Reflection](https://docs.google.com/document/d/1HVlWBY0Xip0b6-JMb4Doq_14cF1bQBub8BqCVnA6wLI/edit?usp=drive_link) — Reframing a Flower Shop Cataloging Schema Around Customer Experience Recognizing after completion that a technically sound schema failed on usability grounds because it did not incorporate images or provide intuitive in-form guidance, and drawing the broader lesson that standards-compliance is never sufficient without empathy for the end user
+
+Impact: Analyzed impact of chosen metadata strategy for describing planters on groups with various different needs including using empathy for different physical and mental challenges
 
 
 ## 4.5 Facilitate communication with users, colleagues, and community stakeholders
 
 [Job\_Preparation\_Package\_Part\_AB](https://docs.google.com/document/d/1W8V9-sD036OBh7BZTLwGEEngNHvPn48sFAAAmJIj89M/edit?usp=drive_link) — Workflow Coordination Across a 14-County Library Consortium Establishing digitization and metadata workflows in collaboration with public, academic, and council library staff across the South Central Regional Library Council, requiring ongoing communication with diverse institutional stakeholders
 
+Impact: Fostered communication between many libraries both public and academic in the South Central Regional Library Council
+
 [Group 5 Paper](https://drive.google.com/file/d/1kpxJqvMs-8Syj-WdsApyzrs3RfTvQX0J/view?usp=drive_link) — Collaborative MySQL Platform Design for Library Craft Scheduling Working across eight weeks of team meetings to design, implement, and reflect on a library craft reservation system in SQL, coordinating schema decisions, wireframes, and implementation with two teammates while leading the SQL scripting
+
+Impact: Helped bridge a technical gap with other library students to create meaningful technical platforms that could improve patron ability to access resources like crafting supplies and workrooms
 
 
 ## 4.6 Direct and participate in responsive public relations, marketing, and development
 
 [Final Report to Partner Library](https://docs.google.com/document/d/1k75Sp74sXJP-t-DH-XQ6Nq4F7qCmbhvpkjZSJ7fKBnY/edit?usp=drive_link) — Multi-Channel Marketing Plan for Immigrant-Focused Digital Programming Designing a marketing strategy spanning physical mail, Facebook, Instagram, brochures, and the library website to reach both the immigrant community and patrons with disabilities, with targeted key messages for each audience segment
 
+Impact: Worked with existing media from Facebook and the web site as well as proposing a mail campaign to market the online book club proposal
+
 [Choose\_Your\_Adventure\_Conference\_Presentation](https://docs.google.com/presentation/d/1GOvJu0Cx2Pib4ouwRHunfbdJYBE0jN2gVSuGtmbAzpI/edit?usp=drive_link) — Presenting SCRLC Create to a Regional Professional Audience at New Librarians' Symposium XI Bringing the immigration-focused digital exhibit built from holdings across multiple library systems to a professional conference audience, connecting donor and partner relations to a concrete platform for cross-institutional collaboration
+
+Impact: Submitted a conference proposal in order to market both the immigrant focused book club and Omeka platform created by the Wayland Free Library library director and the SCRLC collaboration effort
 
 
 ## 4.7 Manage information resources through the information life-cycle
 
 [Reference Librarian Interview](https://docs.google.com/document/d/1nfGaea97oy61Y_tqMgCPEgVrlys98MdtbOFMzHV6yK4/edit?usp=drive_link)  — Reference Practice and Trend Analysis in Digital Humanities Librarianship Documenting how a digital humanities librarian tracks reference interactions by category, modality, and topic to identify emerging needs — for example, noticing a spike in questions about a specific technology and advocating to build institutional support around it
 
+Impact: Consider information across many different sources and the age of many different materials and become familiar with exactly how to choose the best resource and consider the possibility of weeding old outdated resources
+
 [Information\_Objects\_and\_Characteristics\_Table](https://docs.google.com/document/d/1UNMG0oSwvkwLFyvEkcW-g1tPhQmwV58UpfTvzSa8Xik/edit?usp=drive_link) — Comparative Attribute Analysis Across Library, Bookstore, and WorldCat Records Mapping which metadata attributes appear in StarCat, WorldCat, and Amazon for *A Nation of Immigrants*, showing how Library of Congress subject headings, OCLC numbers, and circulation status distinguish library records from commercial and aggregator systems
 
-[Job\_Preparation\_Package\_Part\_AB](https://docs.google.com/document/d/1W8V9-sD036OBh7BZTLwGEEngNHvPn48sFAAAmJIj89M/edit?usp=drive_link) — Digital Preservation and Metadata Standards for Multi-Institutional Collections Implementing Omeka-based digital collections with cross-institutional discoverability standards and preserving 10 GB of library records, applying curation and access practices across the full information life-cycle from digitization through public exhibit
+Impact: Building a repertoire not just of the kinds of resources available at any one library but how data is aggregated across many libraries in different forms
+
+[Job\_Preparation\_Package\_Part\_AB](https://docs.google.com/document/d/1W8V9-sD036OBh7BZTLwGEEngNHvPn48sFAAAmJIj89M/edit?usp=drive_link) — Digital Preservation and Metadata Standards - Preserving 10 GB of library records, applying curation and access practices across the full information life-cycle from digitization to publication via Google Drive
+
+Impact: Building a platform for data in an old format (books and newspapers) in the new digital age (on Google Drive)
