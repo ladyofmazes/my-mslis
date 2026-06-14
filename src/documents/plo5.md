@@ -17,28 +17,50 @@ In the future I will continue at my current job working as a Senior Cloud Databa
 
 [ReferenceScenario](https://docs.google.com/document/d/135NDTZ6fceec0nReExKBgO8TKViuDeDX/edit?usp=drive_link&ouid=114290971790308133102&rtpof=true&sd=true) — Multi-Database Search Strategy for Pediatric Trauma and Immigrant Health Constructing iterative Boolean search strategies across 15 source types including Scopus, MEDLINE, ERIC, Westlaw, and Dialnet to identify authoritative resources for a Harvard Medical School thesis on pediatric trauma training in Hispanic immigrant communities, applying RUSA and ACRL standards throughout
 
+Impact: Extensively dive into information needs for an academic library patron including many different types of resources and evaluating the strengths of each to provide optimal guidance for the marginalized community of immigrants seeking medical care
+
 [Information\_Objects\_and\_Characteristics\_Table](https://docs.google.com/document/d/1-9KvR4B7scBku0Snb-ydF_80DPuQ48C_NZO--5VHvoI/edit?usp=drive_link)  — Comparative Metadata Analysis Across Library, Bookstore, and WorldCat Records Mapping which attributes appear in StarCat, WorldCat, and Amazon for *A Nation of Immigrants*, identifying how Library of Congress subject headings and OCLC numbers distinguish library records from commercial systems and shape what information needs each platform is designed to serve
 
+Impact: Use information literacy skills to analyze how information is presented in cases where limited data is available like public library web sites compared to more robust resources like WorldCat to improve ability to respond to information needs in different library settings
+
 [Job\_Preparation\_Package\_Part\_E](https://docs.google.com/document/d/1O8SmlEzLf83LW6oNeVeBgDUSsAZtW5y0/edit?usp=drive_link&ouid=114290971790308133102&rtpof=true&sd=true) — AI Literacy and Misinformation Detection for Academic Librarians Preparing a job talk for Monroe Community College's Information Literacy and AI Librarian position grounded in peer-reviewed literature on generative AI in higher education, arguing that librarians must take responsibility for educating students and faculty about evaluating AI-generated content
+
+Impact: Build ability to respond to queries in the future as more information comes from AI sources in order to correctly evaluate the validity of the sources and use AI ethically
 
 ## 5.2 Apply knowledge of user information behavior in various contexts**
 
 [Access\_Effectiveness](https://docs.google.com/document/d/1V_cWlm-mFMXgXMg6Ajvnd5IX4R5BfWv60LnEjWyRvPY/edit?usp=drive_link)  — Berrypicking, Authority Control, and the Limits of Algorithmic Search Analyzing how library catalog searches using Library of Congress subject headings return more relevant but sometimes narrower results than Google, drawing on Holley and Joudrey's concept of "aboutness" to argue that understanding what patrons are actually asking is more important than technical precision
 
+Impact: Developed skill to evaluate patron information needs not just based on subject matter but on the specific patron and their own unique learning style
+
 [Final\_Project\_Part\_V\_Reflection](https://docs.google.com/document/d/1HVlWBY0Xip0b6-JMb4Doq_14cF1bQBub8BqCVnA6wLI/edit?usp=drive_link) — User-Centered Critique of a Flower Shop Cataloging Schema Recognizing after completing a technically sound metadata schema that it failed on usability grounds because customers respond to images and intuitive interfaces rather than policy documents, applying Mai's domain-centered indexing approach to argue that the user's context must drive schema design
+
+Impact: Able to evaluate how seemingly simple metadata schemes can expose neglect of the needs of underserved patrons
 
 ## 5.3 Employ research methods to investigate important questions; collect, analyze, evaluate, and communicate data**
 
 [ReferenceScenario](https://docs.google.com/document/d/135NDTZ6fceec0nReExKBgO8TKViuDeDX/edit?usp=drive_link&ouid=114290971790308133102&rtpof=true&sd=true) — Citation Tracing and Source Evaluation Across 15 Reference Categories Using citation tracing, h-index analysis, subject heading iteration, and discernment criteria from *Reference and Information Services* to build and evaluate a research portfolio spanning medical, legal, business, statistical, Spanish-language, and primary source types for a complex interdisciplinary thesis
 
+Impact: Extensively listed sources showing a wide range of different categories and explained how to communicate this data specifically for a medical education student looking to improve access to medical information for the immigrant community
+
 [Final Report to Partner Library](https://docs.google.com/document/d/1k75Sp74sXJP-t-DH-XQ6Nq4F7qCmbhvpkjZSJ7fKBnY/edit?usp=drive_link) — Mixed-Methods Assessment Design for Immigrant Community Digital Engagement Designing a two-outcome assessment framework combining W3C automated accessibility testing for language equity and Facebook group moderator focus groups to evaluate community-building impact, with explicit result scenarios and decision-making indicators
 
+Impact: Built a rigorous outline of the necessary resources to evaluate accessibility needs for the library web site
+
 [Access\_Effectiveness](https://docs.google.com/document/d/1V_cWlm-mFMXgXMg6Ajvnd5IX4R5BfWv60LnEjWyRvPY/edit?usp=drive_link)  — Controlled Vocabulary as a Research Variable Treating Library of Congress authorized forms as an experimental variable to compare search precision across library portals and Google, and finding that authority control dramatically reduces irrelevant results while occasionally suppressing useful ones for organizations like Greenpeace
+
+Impact: Evaluated and responded critically to the needs of underserved communities in creating metadata
 
 ## 5.4 Engage, evaluate, and deploy various technologies ethically and critically**
 
 [Essay 2 Next\_generation\_cloud\_technologies](https://docs.google.com/document/d/1-Nt4j6CCrGnEV6oMXpxiYjKShkZagPMMxYUeiON30aY/edit?usp=drive_link)— Critical History and Business Case Analysis of AI and Deep Learning Tracing AI from cellular automata through backpropagation, deep learning, and LLMs to evaluate where the technology creates genuine value versus hype, arguing that 70%+ of AI transformation investments fail and that smaller organizations should assess specific use cases rather than follow large-platform strategies blindly
 
+Impact: Discussed many facets of the history and use of AI in order to be able to analyze the correct use of AI and AI ethics
+
 [Job\_Preparation\_Package\_Part\_E](https://docs.google.com/document/d/1O8SmlEzLf83LW6oNeVeBgDUSsAZtW5y0/edit?usp=drive_link&ouid=114290971790308133102&rtpof=true&sd=true) — Designing an Interactive AI Information Literacy Session for Academic Library Staff Planning a 40-minute Zoom presentation for Monroe Community College that combines slide-based instruction with live ChatGPT demonstration to help library staff critically evaluate AI outputs and develop institutional guidelines for ethical AI use in education
 
+Impact: Communicated knowledge of AI literacy including demostrating currently existing technologies that will be used by patrons as information sources to show any critical literacy gaps
+
 [Team_2_NewTikTok_Final_Project](https://docs.google.com/document/d/1Cp8PEZpHmAOcq-0YLoGcTqaOuCw4kzmZjAhXUmiOwrs/edit?usp=drive_link) Use ATProto to devise an open source concept for migrating from the current TikTok platform to host online video
+
+Impact: Design systems to use novel technologies including AWS Cloud services, SQL databases and ATProto, in order to support the ethical and open use of information and familiarize myself with technologies that could be applicable to libraries or be relevant to patrons
