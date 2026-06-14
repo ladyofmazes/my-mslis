@@ -8,23 +8,31 @@ I will continue to work at the Wayland Free Library. STLS has many programs for 
 # Evidence
 ## 1.1 Identify situations where systemic information inequality exists. 
 [Final Presentation to Partner Library](https://docs.google.com/presentation/d/1ef4mI7CV0Zry3czLK28Jug7IysdZQz5zZJ8b_AeFfxY/edit?usp=drive_link) Digital Engagement Proposal for Immigrants: Identifying situations where systemic information inequality exists for non-native speakers
+Impact: Identifying a gap to provide library access online for marginalized communities
 
 [Final Project Part V](https://docs.google.com/document/d/1HVlWBY0Xip0b6-JMb4Doq_14cF1bQBub8BqCVnA6wLI/edit?usp=drive_link) - Reflection Ethical Access to Information Scenarios: Identifying situations where systemic information inequality exists  
+Impact: Recognizing that even seemingly simple systems like categorizing plants can be viewed from different perspectives and how to address those needs
  
 ## 1.2 Interrogate and internalize professional ethics, values, standards, and principles.
 
 [Philosophy and Goals of Librarianship](https://docs.google.com/document/d/179e3O7qZzC9OhvEqNaImOvSMtvM_8sYPqRSFGRdaP7A/edit?usp=drive_link) Core Values Identification: Interrogating and internalizing professional ethics and principles
+Impact: As stated also in the philosophy section of this portfolio my personal ethics are related to maintaining the goals of the Englightenment and providing access to knowledge for all
 
 [Reference Librarian Interview](https://docs.google.com/document/d/1nfGaea97oy61Y_tqMgCPEgVrlys98MdtbOFMzHV6yK4/edit?usp=drive_link) Access to Free vs Expensive Tools: Interrogating and internalizing professional ethics, values, and principles
+Impact: Interrogating why having tools available behind a paywall does not meet ethical standards
 
 [Information Objects and Characteristics](https://docs.google.com/document/d/1UNMG0oSwvkwLFyvEkcW-g1tPhQmwV58UpfTvzSa8Xik/edit?usp=drive_link) Ethical Use of Digital Formats: Interrogating professional ethics, values, and standards 
+Impact: Recognizing that there is an ethical implication by only including certain demographics when designing "basic" categorization schemes
 
 ## 1.3 Create and support policies that reflect principles of a just and equitable information society.
 
 [Final Report to Partner Library](https://docs.google.com/document/d/1k75Sp74sXJP-t-DH-XQ6Nq4F7qCmbhvpkjZSJ7fKBnY/edit?usp=drive_link) Proposed Digital Privacy Policy: Creating and supporting policies that reflect the principles of a just and equitable information society
-
-[Preparation Package - Part E](https://docs.google.com/document/d/1O8SmlEzLf83LW6oNeVeBgDUSsAZtW5y0/edit?usp=drive_link&ouid=114290971790308133102&rtpof=true&sd=true) Academic Department Outreach Policy: Creating policies that reflect principles of a just and equitable information society  
+Impact: Update web policy on accessibility to include both disability access and language access and proposal to create online portal to improve digital privacy policy
 
 ## 1.4 Demonstrate a commitment to lifelong learning via engagement with users, communities, colleagues, and professional networks.
 
 [Choose Your Own Adventure Conference Presentation](https://docs.google.com/presentation/d/1GOvJu0Cx2Pib4ouwRHunfbdJYBE0jN2gVSuGtmbAzpI/edit?usp=drive_link) Regional Library Council Cooperation: Online engagement with users, communities, colleagues and professional networks (SCRLC)
+Impact: Engaged with the regional library council to ensure collaboration between all the members including public libraries and both public, private and community colleges in the system to ensure optimal network connectivity
+
+[ACH 2025](https://ach2025.ach.org/en/program/) Chaired two sessions (7B "Perspectives in Critical DH" and# 14B "Computational Communities I")
+Impact: Supporting the scholarly digital humanities community by managing sessions that provide new perspectives on digital humanities and computation
