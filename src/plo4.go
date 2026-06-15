@@ -24,7 +24,7 @@ func (h *plo4) Render() app.UI {
 		Title("Lead and manage people and projects in an equitable, just, and culturally competent manner").
 		Icon(schoolSVG).
 		Index(
-			newIndexLink().Title("Lead and manage people and projects in an equitable, just, and culturally competent manner").Href("/plo4"),
+			newIndexLink().Title("Lead and manage people and projects in an equitable, just, and culturally competent manner").Href("#plo4"),
 			app.Div().Class("separator"),
 		).
 		Content(

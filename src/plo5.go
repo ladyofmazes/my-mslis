@@ -24,7 +24,7 @@ func (h *plo5) Render() app.UI {
 		Title("Demonstrate information literacy and technological agility").
 		Icon(schoolSVG).
 		Index(
-			newIndexLink().Title("Demonstrate information literacy and technological agility").Href("/plo5"),
+			newIndexLink().Title("Demonstrate information literacy and technological agility").Href("#plo5"),
 			app.Div().Class("separator"),
 		).
 		Content(

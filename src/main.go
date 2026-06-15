@@ -4,6 +4,7 @@ import (
 	_ "embed"
 	"log"
 	"net/http"
+	"strings"
 
 	"github.com/maxence-charriere/go-app/v10/pkg/app"
 )
@@ -31,6 +32,73 @@ func (h *intro) Render() app.UI {
 		)
 }
 
+type root struct {
+	app.Compo
+	current string
+}
+
+func (r *root) OnMount(ctx app.Context) {
+	r.syncHash()
+
+	// React to fragment changes: in-app clicks, back/forward, deep links.
+	app.Window().Call("addEventListener", "hashchange",
+		app.FuncOf(func(this app.Value, args []app.Value) any {
+			ctx.Dispatch(func(ctx app.Context) {
+				r.syncHash()
+				app.Log("nav ->", r.current) // diagnostic; delete later
+			})
+			return nil
+		}),
+	)
+
+	// Stop go-app from grabbing our "#" links for path routing.
+	// Capture phase + stopPropagation runs before go-app's own click
+	// handler; we just set the hash, which fires the listener above.
+	app.Window().Get("document").Call("addEventListener", "click",
+		app.FuncOf(func(this app.Value, args []app.Value) any {
+			e := args[0]
+			a := e.Get("target").Call("closest", "a")
+			if a.IsNull() {
+				return nil
+			}
+			href := a.Call("getAttribute", "href").String()
+			if strings.HasPrefix(href, "#") {
+				e.Call("preventDefault")
+				e.Call("stopPropagation")
+				app.Window().Get("location").Set("hash", strings.TrimPrefix(href, "#"))
+			}
+			return nil
+		}),
+		true, // capture
+	)
+}
+
+func (r *root) syncHash() {
+	r.current = strings.TrimPrefix(
+		app.Window().Get("location").Get("hash").String(), "#")
+}
+
+func (r *root) Render() app.UI {
+	switch r.current {
+	case "philosophy":
+		return &philosophy{}
+	case "plo1":
+		return &plo1{}
+	case "plo2":
+		return &plo2{}
+	case "plo3":
+		return &plo3{}
+	case "plo4":
+		return &plo4{}
+	case "plo5":
+		return &plo5{}
+	case "conclusion":
+		return &conclusion{}
+	default:
+		return &intro{}
+	}
+}
+
 // The main function is the entry point where the app is configured and started.
 // It is executed in 2 different environments: A client (the web browser) and a
 // server.
@@ -39,14 +107,7 @@ func main() {
 	//
 	// This is done by calling the Route() function,  which tells go-app what
 	// component to display for a given path, on both client and server-side.
-	app.Route("/", func() app.Composer { return &intro{} })
-	app.Route("/philosophy", func() app.Composer { return &philosophy{} })
-	app.Route("/plo1", func() app.Composer { return &plo1{} })
-	app.Route("/plo2", func() app.Composer { return &plo2{} })
-	app.Route("/plo3", func() app.Composer { return &plo3{} })
-	app.Route("/plo4", func() app.Composer { return &plo4{} })
-	app.Route("/plo5", func() app.Composer { return &plo5{} })
-	app.Route("/conclusion", func() app.Composer { return &conclusion{} })
+	app.Route("/", func() app.Composer { return &root{} })
 	// Once the routes set up, the next thing to do is to either launch the app
 	// or the server that serves the app.
 	//

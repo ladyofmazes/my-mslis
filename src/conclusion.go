@@ -24,7 +24,7 @@ func (h *conclusion) Render() app.UI {
 		Title("Conclusion").
 		Icon(schoolSVG).
 		Index(
-			newIndexLink().Title("Conclusion").Href("/conclusion"),
+			newIndexLink().Title("Conclusion").Href("#conclusion"),
 			app.Div().Class("separator"),
 		).
 		Content(

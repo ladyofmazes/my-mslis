@@ -24,7 +24,7 @@ func (h *plo3) Render() app.UI {
 		Title("Design and innovate to create equitable, just, and engaging information artifacts, including services, systems, spaces, resources, and technologies").
 		Icon(schoolSVG).
 		Index(
-			newIndexLink().Title("Design and innovate to create equitable, just, and engaging information artifacts, including services, systems, spaces, resources, and technologies").Href("/plo3"),
+			newIndexLink().Title("Design and innovate to create equitable, just, and engaging information artifacts, including services, systems, spaces, resources, and technologies").Href("#plo3"),
 			app.Div().Class("separator"),
 		).
 		Content(

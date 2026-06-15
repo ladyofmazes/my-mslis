@@ -24,7 +24,7 @@ func (h *plo2) Render() app.UI {
 		Title("Understand, engage, and serve users and their communities").
 		Icon(schoolSVG).
 		Index(
-			newIndexLink().Title("Understand, engage, and serve users and their communities").Href("/plo2"),
+			newIndexLink().Title("Understand, engage, and serve users and their communities").Href("#plo2"),
 			app.Div().Class("separator"),
 		).
 		Content(

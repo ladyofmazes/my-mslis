@@ -66,8 +66,8 @@ func (m *menu) Render() app.UI {
 					Class(linkClass).
 					Icon(homeSVG).
 					Label("Home").
-					Href("/").
-					Class(isFocus("/")),
+					Href("#").
+					Class(isFocus("#")),
 
 				app.Div().Class("separator"),
 
@@ -75,47 +75,47 @@ func (m *menu) Render() app.UI {
 					Class(linkClass).
 					Icon(imgFolderSVG).
 					Label("Philosophy").
-					Href("/philosophy").
-					Class(isFocus("/philosophy")),
+					Href("#philosophy").
+					Class(isFocus("#philosophy")),
 
 				ui.Link().
 					Class(linkClass).
 					Icon(imgFolderSVG).
 					Label("PLO1").
-					Href("/plo1").
-					Class(isFocus("/plo1")),
+					Href("#plo1").
+					Class(isFocus("#plo1")),
 
 				ui.Link().
 					Class(linkClass).
 					Icon(imgFolderSVG).
 					Label("PLO2").
-					Href("/plo2").
-					Class(isFocus("/plo2")),
+					Href("#plo2").
+					Class(isFocus("#plo2")),
 
 				ui.Link().
 					Class(linkClass).
 					Icon(imgFolderSVG).
 					Label("PLO3").
-					Href("/plo3").
-					Class(isFocus("/plo3")),
+					Href("#plo3").
+					Class(isFocus("#plo3")),
 				ui.Link().
 					Class(linkClass).
 					Icon(imgFolderSVG).
 					Label("PLO4").
-					Href("/plo4").
-					Class(isFocus("/plo4")),
+					Href("#plo4").
+					Class(isFocus("#plo4")),
 				ui.Link().
 					Class(linkClass).
 					Icon(imgFolderSVG).
 					Label("PLO5").
-					Href("/plo5").
-					Class(isFocus("/plo5")),
+					Href("#plo5").
+					Class(isFocus("#plo5")),
 				ui.Link().
 					Class(linkClass).
 					Icon(imgFolderSVG).
 					Label("Conclusion").
-					Href("/conclusion").
-					Class(isFocus("/conclusion")),
+					Href("#conclusion").
+					Class(isFocus("#conclusion")),
 				app.Div().Class("separator"),
 				ui.Link().
 					Class(linkClass).

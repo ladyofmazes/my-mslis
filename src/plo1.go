@@ -24,7 +24,7 @@ func (h *plo1) Render() app.UI {
 		Title("Advance Information Equity and Justice").
 		Icon(schoolSVG).
 		Index(
-			newIndexLink().Title("Advance Information Equity and Justice").Href("/plo1"),
+			newIndexLink().Title("Advance Information Equity and Justice").Href("#plo1"),
 			app.Div().Class("separator"),
 		).
 		Content(
