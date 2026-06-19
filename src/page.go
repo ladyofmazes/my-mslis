@@ -250,13 +250,12 @@ func (p *page) Render() app.UI {
 								Content(
 									app.Raw(`
                                             <div onclick="window.toggleMenu()" style="
-                                                position: fixed; 
-                                                top: 20px; 
-                                                left: 20px; 
-                                                z-index: 99999; 
+                                                position: relative; /* Places it back into the normal page flow */
                                                 display: flex; 
                                                 flex-direction: column; 
                                                 align-items: center;
+                                                margin-top: 20px; /* Replaces 'top: 20px' to give it space from the top of the page */
+                                                margin-bottom: 20px; /* Pushes the next elements down below it */
                                                 cursor: pointer;">
                                                 
                                                 <!-- The Icon Box -->
@@ -270,7 +269,7 @@ func (p *page) Render() app.UI {
                                                         <path fill="currentColor" d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
                                                     </svg>
                                                 </div>
-                                        
+                                            
                                                 <!-- The Text -->
                                                 <h1 style="
                                                     margin: 0; 
@@ -282,6 +281,7 @@ func (p *page) Render() app.UI {
                                                     Menu
                                                 </h1>
                                             </div>
+
                                         `),
 								),
 						),
